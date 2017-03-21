@@ -2,5 +2,6 @@ theme: jekyll-theme-slate
 title: mininode
 description: Node.js for Embedded Systems
 
-github:
-  - repository_name: mininode
+site:
+  - github:
+    - repository_name: mininode
